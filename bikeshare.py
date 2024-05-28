@@ -9,6 +9,7 @@ import numpy as np
     Due Date: July 17, 2018
     Cohort: June 2018 - Data Analyst Nanodegree from Udacity
 """
+#TODO: add 1 line change
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york': 'new_york_city.csv',
              'washington': 'washington.csv'}
