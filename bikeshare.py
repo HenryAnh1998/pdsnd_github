@@ -10,6 +10,8 @@ import numpy as np
     Cohort: June 2018 - Data Analyst Nanodegree from Udacity
 """
 #TODO: add 1 line change
+##TODO: add 1 line todo task 2
+##TODO: add 1 line todo task 3
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york': 'new_york_city.csv',
              'washington': 'washington.csv'}
